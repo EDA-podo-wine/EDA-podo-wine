@@ -1,4 +1,4 @@
-# 🍷 Exploratory Data Analysis (EDA) Report: Red Wine Quality
+-# 🍷 Exploratory Data Analysis (EDA) Report: Red Wine Quality
 
 ## 1. 📝 프로젝트 개요
 - **분석 목적**: 포르투갈 'Vinho Verde' 레드 와인의 화학적 성분 데이터를 바탕으로 품질(Quality)에 미치는 주요 요인을 분석하고, 우수한 품질의 와인을 예측하기 위한 모델링 전처리 전략을 수립합니다.
